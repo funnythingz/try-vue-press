@@ -1,3 +1,7 @@
+---
+lang: ja
+---
+
 # hey
 
 heyhey
