@@ -62,3 +62,4 @@ typings/
 
 .vuepress/*
 !.vuepress/config.js
+!.vuepress/public
