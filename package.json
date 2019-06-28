@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "dev": "vuepress dev",
+    "dev:entries": "vuepress dev entries",
+    "build": "vuepress build",
+    "build:entries": "vuepress build entries"
+  }
+}
