@@ -4,5 +4,14 @@
     "dev:entries": "vuepress dev entries",
     "build": "vuepress build",
     "build:entries": "vuepress build entries"
+  },
+  "dependencies": {
+    "pug-loader": "^2.4.0"
+  },
+  "devDependencies": {
+    "node-sass": "^4.12.0",
+    "pug": "^2.0.4",
+    "pug-plain-loader": "^1.0.0",
+    "sass-loader": "^7.1.0"
   }
 }
